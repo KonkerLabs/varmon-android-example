@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+      "name": "calculator-android-automation",
+      "script": "./node_modules/.bin/varmon",
+      "args" : "--projects test --detectOpenHandles"
+    }
+  ]
+}
